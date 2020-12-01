@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AnimShed</string>
+
+    <!--Splash Screen-->
+    <string name="made_with_in_india">Made with ❤ in India</string>
+    <string name="a_step_toward_needy_animal">A step toward needy animal 🐶.</string>
+
+    <!--OnBoarding Screen-->
+
+    <!--Title-->
+    <string name="how_it_works">How It Works?</string>
+    <string name="Helper">Helper</string>
+    <string name="ngo">Animal Welfare NGO</string>
+    <string name="Injured">If you see Injured</string>
+    <string name="location">Realtime Location of animal</string>
+    <!--Description-->
+
+    <string name="how_it_works_description">We are living in the society where Humans are only animal
+    but have you ever thought about animal that are living with animals.
+    </string>
+
+    <string name="helper">Helper is someone who looked at animal who is not well all wants to help that animal. He/She only needs to click photo and share with location.
+    </string>
+    <string name="animal_welfare_ngo">These are the group of people who work for the welfare of the animal Helper captured photo can be seen by only these members.
+    </string>
+    <string name="injured_animal">if you found any animal like me please help him too.</string>
+    <string name="location_of_injured_animal">You can share the realtime location of that animal at the time of clicking photo</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="i_have_an_account">i Have An Account</string>
+    <string name="next">Next</string>
+    <string name="location_signup">Location</string>
+</resources>
